@@ -11,3 +11,5 @@ __pycache__/
 
 # macOS system files
 .DS_Store
+logs/
+logs/*.log
